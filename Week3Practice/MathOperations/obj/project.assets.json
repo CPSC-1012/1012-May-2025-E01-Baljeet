@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\SolWeek2\\PracticeVariableDataType\\PracticeVariableDataType.csproj",
-      "projectName": "PracticeVariableDataType",
-      "projectPath": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\SolWeek2\\PracticeVariableDataType\\PracticeVariableDataType.csproj",
+      "projectUniqueName": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\Week3Practice\\MathOperations\\MathOperations.csproj",
+      "projectName": "MathOperations",
+      "projectPath": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\Week3Practice\\MathOperations\\MathOperations.csproj",
       "packagesPath": "C:\\Users\\Harpreet\\.nuget\\packages\\",
-      "outputPath": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\SolWeek2\\PracticeVariableDataType\\obj\\",
+      "outputPath": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\Week3Practice\\MathOperations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
