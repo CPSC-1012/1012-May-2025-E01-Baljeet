@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\bin\Debug\net8.0\CeciusToFarenheit.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\bin\Debug\net8.0\CeciusToFarenheit.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\bin\Debug\net8.0\CeciusToFarenheit.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\bin\Debug\net8.0\CeciusToFarenheit.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\bin\Debug\net8.0\CeciusToFarenheit.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\CeciusToFarenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\CeciusToFarenheit.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\CeciusToFarenheit.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\CeciusToFarenheit.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\CeciusToFarenheit.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\CeciusToFarenheit.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\refint\CeciusToFarenheit.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\CeciusToFarenheit.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\CeciusToFarenheit.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek3.1\CeciusToFarenheit\obj\Debug\net8.0\ref\CeciusToFarenheit.dll
