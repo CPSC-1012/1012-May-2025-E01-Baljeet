@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\SolWeek3.1\\CeciusToFarenheit\\CeciusToFarenheit.csproj",
-      "projectName": "CeciusToFarenheit",
-      "projectPath": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\SolWeek3.1\\CeciusToFarenheit\\CeciusToFarenheit.csproj",
+      "projectUniqueName": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\SolWeek3.1\\CeciusToFarenheit\\CelsiusToFahrenheit.csproj",
+      "projectName": "CelsiusToFahrenheit",
+      "projectPath": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\SolWeek3.1\\CeciusToFarenheit\\CelsiusToFahrenheit.csproj",
       "packagesPath": "C:\\Users\\Harpreet\\.nuget\\packages\\",
       "outputPath": "D:\\NAIT\\Summer2025\\CPSC1012\\gitCPSC1012_May_2025\\SolWeek3.1\\CeciusToFarenheit\\obj\\",
       "projectStyle": "PackageReference",

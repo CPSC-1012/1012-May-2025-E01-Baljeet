@@ -5,8 +5,7 @@
  * Last updated: May 23, 2025
  */
 
-
-namespace CeciusToFarenheit
+namespace CelsiusToFahrenheit
 {
     internal class Program
     {
@@ -21,13 +20,16 @@ namespace CeciusToFarenheit
 
             //Conversion formula
 
-            degreeFahrenheit = (degreeCelsius * 9 / 5) + 32;
+            degreeFahrenheit = degreeCelsius * 9 / 5 + 32;
 
             //Output
 
-            Console.WriteLine(" Celsius is equal to :"+ degreeFahrenheit + "F");
+            Console.WriteLine(degreeCelsius+" Celsius is equal to :"+ degreeFahrenheit + "F");
+            // sring interpolation variable substitution
+            Console.WriteLine($"{degreeCelsius} Celsius is equal to : {degreeFahrenheit} F ");
+            // string interpolation expression substitution
+            Console.WriteLine($"{degreeCelsius} Celsius is equal to : {degreeCelsius * 9 /5  +32} F ");
 
-            
             //// Calculate HYPOTENUSE of a right triangle
             ///
             // declare variables
@@ -40,11 +42,14 @@ namespace CeciusToFarenheit
             height = double.Parse(Console.ReadLine());
 
             // calculate hypotenuse using Pythagorean theorem
-            hypotenuse = Math.Sqrt((baset * baset) + (height * height));
+            hypotenuse = Math.Sqrt(baset * baset + height * height);
 
             // output the result
             Console.WriteLine("The hypotenuse of the right triangle is: " + hypotenuse);
-
+            // string interpolation variable substitution
+            Console.WriteLine($"The hypotenuse of the right triangle is: {hypotenuse}");
+            // string interpolation expression substitution
+            Console.WriteLine($"The hypotenuse of the right triangle is: {Math.Sqrt(baset * baset + height * height)}");
         }
     }
 }
