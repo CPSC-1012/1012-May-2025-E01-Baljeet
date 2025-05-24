@@ -13,7 +13,6 @@ namespace CeciusToFarenheit
         static void Main(string[] args)
         {
             //Declarations
-
             double degreeCelsius, degreeFahrenheit;
 
             //Input
@@ -28,7 +27,23 @@ namespace CeciusToFarenheit
 
             Console.WriteLine(" Celsius is equal to :"+ degreeFahrenheit + "F");
 
+            
+            //// Calculate HYPOTENUSE of a right triangle
+            ///
+            // declare variables
 
+            double baset, height, hypotenuse;
+            // input  and width
+            Console.Write("Enter the Base of the right triangle: ");
+            baset = double.Parse(Console.ReadLine());
+            Console.Write("Enter the height of the right triangle: ");
+            height = double.Parse(Console.ReadLine());
+
+            // calculate hypotenuse using Pythagorean theorem
+            hypotenuse = Math.Sqrt((baset * baset) + (height * height));
+
+            // output the result
+            Console.WriteLine("The hypotenuse of the right triangle is: " + hypotenuse);
 
         }
     }

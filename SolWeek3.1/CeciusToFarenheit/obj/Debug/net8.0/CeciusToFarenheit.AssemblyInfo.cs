@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CeciusToFarenheit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f335c44aeef91b9d1167ac7772b61223f3b62281")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3503663d7dfd4ef9a0498cbb06b11e4cf596d2d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CeciusToFarenheit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CeciusToFarenheit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
