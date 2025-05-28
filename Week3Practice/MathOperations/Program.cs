@@ -12,6 +12,7 @@ namespace MathOperations
         static void Main(string[] args)
         {
             //Declarations
+            /*
             double principalAmount = 1000; // Principal amount
             double rateOfInterest = .05; // Rate of interest
             double time = 2; // Time in years
@@ -45,6 +46,26 @@ namespace MathOperations
             int b = 3;
             double c = Math.Pow(a, b);
             Console.WriteLine("The Exponent value is " + c);
+            */
+
+
+          //  int x = 88;
+          //  double y =  x / 10.0;
+
+          //  Console.WriteLine("The value of y is: " + y);
+
+            int a, b;
+            double c;
+            a= 10;
+            b = 20;
+
+            c = 10+ Math.Pow((20-15), 2);
+
+
+            Console.WriteLine("The value of c  is: " + c);
+
+
+
         }
     }
 }

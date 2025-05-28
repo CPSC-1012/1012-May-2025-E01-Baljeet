@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\bin\Debug\net8.0\FormattingStrings.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\bin\Debug\net8.0\FormattingStrings.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\bin\Debug\net8.0\FormattingStrings.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\bin\Debug\net8.0\FormattingStrings.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\bin\Debug\net8.0\FormattingStrings.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\FormattingStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\FormattingStrings.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\FormattingStrings.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\FormattingStrings.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\FormattingStrings.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\FormattingStrings.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\refint\FormattingStrings.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\FormattingStrings.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\FormattingStrings.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek4\FormattingStrings\obj\Debug\net8.0\ref\FormattingStrings.dll

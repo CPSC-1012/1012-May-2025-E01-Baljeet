@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\bin\Debug\net8.0\MathOperations.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\bin\Debug\net8.0\MathOperations.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\bin\Debug\net8.0\MathOperations.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\bin\Debug\net8.0\MathOperations.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\bin\Debug\net8.0\MathOperations.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\MathOperations.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\MathOperations.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\MathOperations.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\refint\MathOperations.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\MathOperations.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\MathOperations.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\Week3Practice\MathOperations\obj\Debug\net8.0\ref\MathOperations.dll
