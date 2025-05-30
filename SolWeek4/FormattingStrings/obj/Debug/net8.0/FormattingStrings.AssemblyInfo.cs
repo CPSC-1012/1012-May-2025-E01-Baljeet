@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormattingStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6431bbbb9070f7bebfe5ee4dd6cb98362936d7bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c803e01559c6d5e1e62f8876d65b9db0378d067")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormattingStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormattingStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
