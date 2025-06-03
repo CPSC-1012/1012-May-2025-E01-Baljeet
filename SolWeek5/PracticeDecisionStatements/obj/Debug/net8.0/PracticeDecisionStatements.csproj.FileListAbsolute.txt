@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\bin\Debug\net8.0\PracticeDecisionStatements.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\bin\Debug\net8.0\PracticeDecisionStatements.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\bin\Debug\net8.0\PracticeDecisionStatements.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\bin\Debug\net8.0\PracticeDecisionStatements.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\bin\Debug\net8.0\PracticeDecisionStatements.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\PracticeDecisionStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\PracticeDecisionStatements.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\PracticeDecisionStatements.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\PracticeDecisionStatements.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\PracticeDecisionStatements.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\PracticeDecisionStatements.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\refint\PracticeDecisionStatements.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\PracticeDecisionStatements.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\PracticeDecisionStatements.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek5\PracticeDecisionStatements\obj\Debug\net8.0\ref\PracticeDecisionStatements.dll
