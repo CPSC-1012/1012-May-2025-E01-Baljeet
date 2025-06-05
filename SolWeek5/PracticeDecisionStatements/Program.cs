@@ -34,7 +34,7 @@ namespace PracticeDecisionStatements
             */
 
             // Example 2
-
+            /*
             // Declaration of variables
 
             double score1, score2, score3, average;
@@ -67,6 +67,98 @@ namespace PracticeDecisionStatements
             {
                 Console.WriteLine("You have scope for furthur improvement");
             }
+            */
+
+            //Example 3: Displaying grade of a student based on the score of student
+
+            // Declaration of variables
+            double score;
+            char grade;
+
+            // taking input from user
+            
+            Console.WriteLine("Please enter the score of the student");
+            score = double.Parse(Console.ReadLine());
+            /*
+            if (score < 50)
+            {
+                grade = 'F';
+                //Console.WriteLine(" The student has failed the exam.");
+            }
+            else if (score < 60)
+            {
+                grade = 'D';
+                //Console.WriteLine("The student has received a grade of D.");
+            }
+            else if (score < 70)
+            {
+
+                grade = 'C';
+               // Console.WriteLine("The student has received a grade of C.");
+            }
+            else if (score < 80)
+            {
+                grade = 'B';
+              //  Console.WriteLine("The student has received a grade of B.");
+            }
+            else
+            {
+                grade = 'A';
+              //  Console.WriteLine("The student has received a grade of A.");
+            }
+
+            // out of if else nested structure
+
+            Console.WriteLine($"The student has received a grade of {grade} for the score {score}.");
+
+            */
+
+            if (score > 80)
+            {
+                grade = 'A';
+                //Console.WriteLine(" The student has failed the exam.");
+            }
+            else if (score > 70)
+            {
+                grade = 'B';
+                //Console.WriteLine("The student has received a grade of D.");
+            }
+            else if (score > 60)
+            {
+
+                grade = 'C';
+                // Console.WriteLine("The student has received a grade of C.");
+            }
+            else if (score >= 50)
+            {
+                grade = 'D';
+                //  Console.WriteLine("The student has received a grade of B.");
+            }
+            else
+            {
+                grade = 'F';
+                //  Console.WriteLine("The student has received a grade of A.");
+            }
+
+            // out of if else nested structure
+
+            Console.WriteLine($"The student has received a grade of {grade} for the score {score}.");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         }
