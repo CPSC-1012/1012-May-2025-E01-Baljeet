@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\bin\Debug\net8.0\LoopPractice.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\bin\Debug\net8.0\LoopPractice.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\bin\Debug\net8.0\LoopPractice.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\bin\Debug\net8.0\LoopPractice.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\bin\Debug\net8.0\LoopPractice.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\LoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\LoopPractice.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\LoopPractice.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\LoopPractice.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\LoopPractice.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\LoopPractice.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\refint\LoopPractice.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\LoopPractice.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\LoopPractice.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek6\LoopPractice\obj\Debug\net8.0\ref\LoopPractice.dll

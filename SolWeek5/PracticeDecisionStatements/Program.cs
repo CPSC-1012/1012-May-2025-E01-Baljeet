@@ -231,7 +231,7 @@ namespace PracticeDecisionStatements
             // Declaration of Vaiables
 
             double num1, num2, result=0;// operands
-            int choice;                 // number to determine operator choice
+            char choice;                 // number to determine operator choice
 
             // input from user
 
@@ -245,12 +245,12 @@ namespace PracticeDecisionStatements
 
             // prompt user to give choice for operation
 
-            Console.WriteLine("Press 1 for ADDITION ");
-            Console.WriteLine("Press 2 for SUBTRACTION ");
-            Console.WriteLine("Press 3 for MULTIPLICATION ");
-            Console.WriteLine("Press 4 for DIVISION ");
+            Console.WriteLine("Press A for ADDITION ");
+            Console.WriteLine("Press S for SUBTRACTION ");
+            Console.WriteLine("Press M for MULTIPLICATION ");
+            Console.WriteLine("Press D for DIVISION ");
             Console.WriteLine();
-            choice = int.Parse(Console.ReadLine());
+            choice = char.Parse(Console.ReadLine());
             /*
             if (choice == 1)
             {
@@ -274,15 +274,15 @@ namespace PracticeDecisionStatements
 
             switch(choice)
             {
-                case 1: result = num1 + num2;
+                case 'A': result = num1 + num2;
                      break;
-                case 2:
+                case 'B':
                     result = num1 - num2;
                     break;
-                case 3:
+                case 'M':
                     result = num1 * num2;
                     break;
-                case 4:
+                case 'D':
                     result = num1 / num2;
                     break;
                 default:
