@@ -38,7 +38,7 @@
 
             */
             //Example : Calculate factorial of a given number using for loop
-
+            /*
             // declaration
 
             int count, num, fact = 1;
@@ -59,7 +59,7 @@
 
             Console.WriteLine($" factorial value of {num} is: {fact}");
 
-
+            */
 
             //Example : Calculate factorial of a given number using while loop
             /*
@@ -86,6 +86,22 @@
                 }
 
             */
+
+
+            // example : Fibonacci dseries 1,1,2,3,5,8,13.....
+
+            int f1 = 1, f2 = 2, f3=0;
+
+            while (f3 <= 89)
+            {
+                f3 = f2 + f1;
+                f1 = f2;
+                f2 = f3;
+                
+                Console.WriteLine(f3);
+
+            }
+
 
         }
     }
