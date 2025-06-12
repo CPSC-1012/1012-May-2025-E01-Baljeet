@@ -17,9 +17,9 @@
 
             }
             
-*/
+
             // Example : print values from 1 to 100
-            /*
+            
             // declarations
 
             int i = 0; // intitialize loop variable
@@ -30,10 +30,39 @@
                 i = i + 1;
 
             }
+            
+            for (int i = 1; i <= 100 ; i++)
+            {
+                Console.WriteLine($" {i} ");
+            }
+
             */
+            //Example : Calculate factorial of a given number using for loop
 
-            //Example : Calculate factorial of a given number
+            // declaration
 
+            int count, num, fact = 1;
+
+            // input
+
+            Console.Write(" Enter the number to calculate factorial");
+            num = int.Parse(Console.ReadLine());
+            count = num;// intialization of condition variable
+
+            if (count == 1)
+                fact = 1;
+
+            for (int i = count; count > 1; count--) // intialization; ckecking condition; updating counter
+            {
+                fact = fact * count;
+            }
+
+            Console.WriteLine($" factorial value of {num} is: {fact}");
+
+
+
+            //Example : Calculate factorial of a given number using while loop
+            /*
             // declaration
 
             int count, num, fact =1;
@@ -52,33 +81,15 @@
                 {
                     fact = fact * count;
                     count = count - 1; // updation in condition variable
-                    
+
                  //   Console.WriteLine($" factorial value of {count} is: {fact}");
                 }
 
-            }
-
-            Console.WriteLine($" factorial value of {num} is: {fact}");
-
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            */
 
         }
     }
 }
+           
+        
+    
