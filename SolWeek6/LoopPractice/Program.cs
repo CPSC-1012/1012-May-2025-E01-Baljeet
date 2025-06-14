@@ -3,7 +3,9 @@
     internal class Program
     {
         static void Main(string[] args)
-        {/*
+        {
+            Console.Clear();
+            /*
             int table, i=1; //initial value of iteration
 
 
@@ -37,29 +39,37 @@
             }
 
             */
+            // nested loops
             //Example : Calculate factorial of a given number using for loop
-            /*
+            
             // declaration
 
             int count, num, fact = 1;
+            string userResponse;
 
             // input
-
-            Console.Write(" Enter the number to calculate factorial");
-            num = int.Parse(Console.ReadLine());
-            count = num;// intialization of condition variable
-
-            if (count == 1)
-                fact = 1;
-
-            for (int i = count; count > 1; count--) // intialization; ckecking condition; updating counter
+            do
             {
-                fact = fact * count;
-            }
+                Console.Write(" Enter the number to calculate factorial: ");
+                num = int.Parse(Console.ReadLine());
+                count = num;// intialization of condition variable
+                fact = 1;
+                if (count == 1)
+                    fact = 1;
 
-            Console.WriteLine($" factorial value of {num} is: {fact}");
+                for (int i = count; count > 1; count--) // intialization; ckecking condition; updating counter
+                {
+                    fact = fact * count;
+                }
 
-            */
+                Console.WriteLine($" factorial value of {num} is: {fact}");
+
+                Console.Write(" Do you want to continue : y/Y or n/N ????");
+                userResponse = (Console.ReadLine()).ToUpper();
+            } while (userResponse == "Y");
+
+            // we can also use while (userResponse == "y" || userResponse == "Y");
+
 
             //Example : Calculate factorial of a given number using while loop
             /*
@@ -89,19 +99,19 @@
 
 
             // example : Fibonacci dseries 1,1,2,3,5,8,13.....
+            /*
+                        int f1 = 1, f2 = 2, f3=0;
 
-            int f1 = 1, f2 = 2, f3=0;
+                        while (f3 <= 89)
+                        {
+                            f3 = f2 + f1;
+                            f1 = f2;
+                            f2 = f3;
 
-            while (f3 <= 89)
-            {
-                f3 = f2 + f1;
-                f1 = f2;
-                f2 = f3;
-                
-                Console.WriteLine(f3);
+                            Console.WriteLine(f3);
 
-            }
-
+                        }
+            */
 
         }
     }

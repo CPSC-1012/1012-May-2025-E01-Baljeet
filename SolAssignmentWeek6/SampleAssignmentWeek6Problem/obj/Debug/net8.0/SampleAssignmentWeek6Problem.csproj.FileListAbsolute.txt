@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\bin\Debug\net8.0\SampleAssignmentWeek6Problem.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\bin\Debug\net8.0\SampleAssignmentWeek6Problem.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\bin\Debug\net8.0\SampleAssignmentWeek6Problem.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\bin\Debug\net8.0\SampleAssignmentWeek6Problem.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\bin\Debug\net8.0\SampleAssignmentWeek6Problem.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\SampleAssignmentWeek6Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\SampleAssignmentWeek6Problem.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\SampleAssignmentWeek6Problem.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\SampleAssignmentWeek6Problem.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\SampleAssignmentWeek6Problem.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\SampleAssignmentWeek6Problem.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\refint\SampleAssignmentWeek6Problem.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\SampleAssignmentWeek6Problem.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\SampleAssignmentWeek6Problem.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolAssignmentWeek6\SampleAssignmentWeek6Problem\obj\Debug\net8.0\ref\SampleAssignmentWeek6Problem.dll
