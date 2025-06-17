@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\bin\Debug\net8.0\PracticeExceptionHandling.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\bin\Debug\net8.0\PracticeExceptionHandling.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\bin\Debug\net8.0\PracticeExceptionHandling.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\bin\Debug\net8.0\PracticeExceptionHandling.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\bin\Debug\net8.0\PracticeExceptionHandling.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\PracticeExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\PracticeExceptionHandling.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\PracticeExceptionHandling.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\PracticeExceptionHandling.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\PracticeExceptionHandling.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\PracticeExceptionHandling.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\refint\PracticeExceptionHandling.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\PracticeExceptionHandling.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\PracticeExceptionHandling.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek7\PracticeExceptionHandling\obj\Debug\net8.0\ref\PracticeExceptionHandling.dll

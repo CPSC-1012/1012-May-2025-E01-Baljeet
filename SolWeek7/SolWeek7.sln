@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeExceptionHandling", "PracticeExceptionHandling\PracticeExceptionHandling.csproj", "{F0226FBF-D831-4F68-95AD-EBB646543300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0226FBF-D831-4F68-95AD-EBB646543300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0226FBF-D831-4F68-95AD-EBB646543300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0226FBF-D831-4F68-95AD-EBB646543300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0226FBF-D831-4F68-95AD-EBB646543300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77604B37-8FF8-4F1A-A907-C54F6FAE419B}
+	EndGlobalSection
+EndGlobal
