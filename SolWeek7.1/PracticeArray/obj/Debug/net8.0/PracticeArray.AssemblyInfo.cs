@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticeArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf57f3dab6bf00d07c077caf54de0922b6690f9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+857549814b32460bf1b52abc4256045facdf8a97")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticeArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticeArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
