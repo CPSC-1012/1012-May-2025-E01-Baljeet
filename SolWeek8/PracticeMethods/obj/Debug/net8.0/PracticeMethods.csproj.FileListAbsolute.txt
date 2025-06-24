@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\bin\Debug\net8.0\PracticeMethods.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\bin\Debug\net8.0\PracticeMethods.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\bin\Debug\net8.0\PracticeMethods.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\bin\Debug\net8.0\PracticeMethods.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\bin\Debug\net8.0\PracticeMethods.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\PracticeMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\PracticeMethods.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\PracticeMethods.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\PracticeMethods.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\PracticeMethods.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\PracticeMethods.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\refint\PracticeMethods.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\PracticeMethods.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\PracticeMethods.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8\PracticeMethods\obj\Debug\net8.0\ref\PracticeMethods.dll
