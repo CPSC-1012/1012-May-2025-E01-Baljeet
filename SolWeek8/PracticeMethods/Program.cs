@@ -25,6 +25,7 @@ namespace PracticeMethods
                 Console.WriteLine(" Press 2 for subtraction");
                 Console.WriteLine(" Press 3 for Multiplication");
                 Console.WriteLine(" Press 4 for Division");
+                Console.WriteLine(" Press 5 to update the value of variables");
 
                 choice = int.Parse(Console.ReadLine());
 
@@ -41,6 +42,13 @@ namespace PracticeMethods
                         break;
                     case 4:
                         result = Division(a, b);
+                        break;
+                   /* case 5:
+                        VarUpdate(a,  b); // call by value
+                        break;
+                   */
+                    case 5:
+                        VarUpdate(ref a,ref b); // call by reference
                         break;
                     default:
                         Console.WriteLine("Please enter value between 1 - 4 ");
@@ -74,6 +82,13 @@ namespace PracticeMethods
             double Division(double x, double y)
             {
                 return (x / y);
+            }
+
+            void VarUpdate ( ref double x,ref double y)
+            {
+                x = x + 5; 
+                y = y + 5;
+
             }
         }
     }
