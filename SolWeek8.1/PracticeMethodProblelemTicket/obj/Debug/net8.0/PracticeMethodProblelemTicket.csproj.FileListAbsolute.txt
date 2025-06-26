@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\bin\Debug\net8.0\PracticeMethodProblelemTicket.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\bin\Debug\net8.0\PracticeMethodProblelemTicket.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\bin\Debug\net8.0\PracticeMethodProblelemTicket.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\bin\Debug\net8.0\PracticeMethodProblelemTicket.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\bin\Debug\net8.0\PracticeMethodProblelemTicket.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\PracticeMethodProblelemTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\PracticeMethodProblelemTicket.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\PracticeMethodProblelemTicket.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\PracticeMethodProblelemTicket.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\PracticeMethodProblelemTicket.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\PracticeMethodProblelemTicket.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\refint\PracticeMethodProblelemTicket.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\PracticeMethodProblelemTicket.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\PracticeMethodProblelemTicket.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek8.1\PracticeMethodProblelemTicket\obj\Debug\net8.0\ref\PracticeMethodProblelemTicket.dll
