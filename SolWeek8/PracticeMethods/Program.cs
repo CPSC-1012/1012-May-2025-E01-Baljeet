@@ -84,7 +84,7 @@ namespace PracticeMethods
                 return (x / y);
             }
 
-            void VarUpdate ( ref double x,ref double y)
+            void VarUpdate (ref double x,ref double y)
             {
                 x = x + 5; 
                 y = y + 5;

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticeMethodProblelemTicket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ba9e2060dda462a68a08113e2eec67fdf3808c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b361c182141874ad5995589e29cb6baad8893387")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticeMethodProblelemTicket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticeMethodProblelemTicket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

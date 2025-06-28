@@ -5,6 +5,10 @@
         static void Main(string[] args)
         {
             Console.Clear();
+
+            // the value has changed!
+
+            /*
             Console.WriteLine("Buy Theater Ticket Program");
 
             // declarations
@@ -33,9 +37,9 @@
                 double tPrice = 0;
 
                 if (age <= 6)
-                {
+                
                     tPrice = 0;
-                }
+                   
                 else if (age > 6 && age <= 17)
                 {
                     tPrice = 9.80;
@@ -44,7 +48,7 @@
                 {
                     tPrice = 11.35;
                 }
-                else 
+                else
                 {
                     tPrice = 10;
                 }
@@ -53,7 +57,57 @@
 
             }
 
+*/
 
+            // EXAMPLE 2
+            // 
+
+            // variable 
+
+            double income, taxValue;
+
+            //
+
+            Console.Write(" Enter amount of Income");
+            income = double.Parse(Console.ReadLine());
+
+            // 
+
+            taxValue = CalculateTax(income);
+
+            Console.WriteLine($" the Tax value for income {income} is : {taxValue}");
+
+
+
+
+                     
+            // method definition
+
+            double CalculateTax( double income)
+            {
+                double tax;
+                double taxableIncome1;
+
+                if (income <= 50000)
+                {
+                    tax = 0;
+                }
+                else if (income > 50000 && income <= 100000)
+                {
+                    taxableIncome1 = income - 50000;
+                    tax = 2500 + (taxableIncome1 * .07);
+                                        
+                }
+                else
+                {
+                    taxableIncome1 = income - 100000;
+                    tax = 6000 + (taxableIncome1 * .09);
+                }
+
+                return tax;
+
+
+            }
 
         }
     }
