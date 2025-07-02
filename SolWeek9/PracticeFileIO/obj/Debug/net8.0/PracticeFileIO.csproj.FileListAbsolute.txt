@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\bin\Debug\net8.0\PracticeFileIO.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\bin\Debug\net8.0\PracticeFileIO.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\bin\Debug\net8.0\PracticeFileIO.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\bin\Debug\net8.0\PracticeFileIO.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\bin\Debug\net8.0\PracticeFileIO.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\PracticeFileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\PracticeFileIO.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\PracticeFileIO.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\PracticeFileIO.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\PracticeFileIO.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\PracticeFileIO.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\refint\PracticeFileIO.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\PracticeFileIO.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\PracticeFileIO.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek9\PracticeFileIO\obj\Debug\net8.0\ref\PracticeFileIO.dll
