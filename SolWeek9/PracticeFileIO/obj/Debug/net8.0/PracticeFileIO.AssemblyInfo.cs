@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticeFileIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d75874094ff5f4f90edaf23770724e948ea7e92c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5839945eb9da7f8110409059eb6e3b89bd4e71da")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticeFileIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticeFileIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
