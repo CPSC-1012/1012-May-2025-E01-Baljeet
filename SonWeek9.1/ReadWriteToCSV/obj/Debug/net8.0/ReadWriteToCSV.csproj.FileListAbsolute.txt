@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\bin\Debug\net8.0\ReadWriteToCSV.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\bin\Debug\net8.0\ReadWriteToCSV.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\bin\Debug\net8.0\ReadWriteToCSV.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\bin\Debug\net8.0\ReadWriteToCSV.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\bin\Debug\net8.0\ReadWriteToCSV.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\ReadWriteToCSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\ReadWriteToCSV.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\ReadWriteToCSV.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\ReadWriteToCSV.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\ReadWriteToCSV.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\ReadWriteToCSV.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\refint\ReadWriteToCSV.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\ReadWriteToCSV.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\ReadWriteToCSV.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek9.1\ReadWriteToCSV\obj\Debug\net8.0\ref\ReadWriteToCSV.dll
