@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadWriteToCSV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+899f2183cfbc49ae54f26a3f28eaedc4b3565ec3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+817dc1e1300d72e522f35172ccbc855222906b32")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadWriteToCSV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadWriteToCSV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

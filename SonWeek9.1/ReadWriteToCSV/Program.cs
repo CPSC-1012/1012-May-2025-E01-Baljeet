@@ -9,7 +9,8 @@ namespace ReadWriteToCSV
             Console.Clear();
 
             // Declaration
-
+            /* Writing to file 
+             
             string firstName;
             string lastName;
             string id;
@@ -55,7 +56,46 @@ namespace ReadWriteToCSV
 
             } while(choice.ToUpper() == "Y");
             
-            
+            */
+
+
+            // reading from a file
+            // declaration
+
+            string fileName, record;
+            int recordCount = 0;
+            int fieldCount = 0;
+
+            // input
+
+            Console.Write("Enter file name: ");
+            fileName = Console.ReadLine();
+
+            // open the file for reading
+
+            StreamReader reader = new StreamReader(fileName);
+
+            // read from file till the end of file
+
+            while (reader.EndOfStream == false)
+            {
+                recordCount++;                      // recordCount += 1
+                record = reader.ReadLine();
+                Console.WriteLine($" Record {recordCount} ");
+                Console.WriteLine($" =========================== ");
+                // display the record with field number
+                Console.WriteLine(record);
+               /*
+                while (record.Length > 0 )
+                {
+                    fieldCount++;
+
+                    Console.WriteLine($" field {fieldCount} : {record.Substring(0,record.IndexOf(','))}");
+                }
+               */
+            }
+
+
         }
     }
 }
