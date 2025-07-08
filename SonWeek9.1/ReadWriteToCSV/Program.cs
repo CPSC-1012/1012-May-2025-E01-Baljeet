@@ -1,4 +1,5 @@
-﻿using System.Xml.Serialization;
+﻿using System.Security.Cryptography.X509Certificates;
+using System.Xml.Serialization;
 
 namespace ReadWriteToCSV
 {
@@ -82,20 +83,36 @@ namespace ReadWriteToCSV
                 recordCount++;                      // recordCount += 1
                 record = reader.ReadLine();
                 Console.WriteLine($" Record {recordCount} ");
-                Console.WriteLine($" =========================== ");
+                Console.WriteLine($" ----------------------- ");
                 // display the record with field number
-                Console.WriteLine(record);
-               /*
-                while (record.Length > 0 )
+                //Console.WriteLine(record);
+
+
+
+
+                while (record.Length > 0)
                 {
                     fieldCount++;
 
-                    Console.WriteLine($" field {fieldCount} : {record.Substring(0,record.IndexOf(','))}");
+                    ///  checking for presence of "," , in absence of , display the whole record as it is the last part of the record
+                    if (record.IndexOf(',') < 0)
+                    {
+                        Console.WriteLine($" field {fieldCount} : {record}");
+                        record = "";
+                    }
+                    else
+                    {
+
+
+                        string f1;
+                        f1 = record.Substring(0, record.IndexOf(','));
+                        Console.WriteLine($" field {fieldCount} : {f1}");
+                        record = record.Remove(0, record.IndexOf(',') + 1);
+                    }
                 }
-               */
+
+
             }
-
-
         }
     }
 }
