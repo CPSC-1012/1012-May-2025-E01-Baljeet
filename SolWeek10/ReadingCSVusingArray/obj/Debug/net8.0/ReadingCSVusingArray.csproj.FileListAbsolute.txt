@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\bin\Debug\net8.0\ReadingCSVusingArray.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\bin\Debug\net8.0\ReadingCSVusingArray.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\bin\Debug\net8.0\ReadingCSVusingArray.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\bin\Debug\net8.0\ReadingCSVusingArray.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\bin\Debug\net8.0\ReadingCSVusingArray.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\ReadingCSVusingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\ReadingCSVusingArray.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\ReadingCSVusingArray.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\ReadingCSVusingArray.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\ReadingCSVusingArray.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\ReadingCSVusingArray.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\refint\ReadingCSVusingArray.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\ReadingCSVusingArray.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\ReadingCSVusingArray.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek10\ReadingCSVusingArray\obj\Debug\net8.0\ref\ReadingCSVusingArray.dll
