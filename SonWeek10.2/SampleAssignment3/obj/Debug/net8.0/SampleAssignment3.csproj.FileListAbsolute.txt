@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\bin\Debug\net8.0\SampleAssignment3.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\bin\Debug\net8.0\SampleAssignment3.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\bin\Debug\net8.0\SampleAssignment3.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\bin\Debug\net8.0\SampleAssignment3.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\bin\Debug\net8.0\SampleAssignment3.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\SampleAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\SampleAssignment3.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\SampleAssignment3.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\SampleAssignment3.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\SampleAssignment3.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\SampleAssignment3.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\refint\SampleAssignment3.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\SampleAssignment3.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\SampleAssignment3.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek10.2\SampleAssignment3\obj\Debug\net8.0\ref\SampleAssignment3.dll
