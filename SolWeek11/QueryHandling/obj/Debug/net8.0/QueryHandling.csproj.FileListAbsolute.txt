@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\bin\Debug\net8.0\QueryHandling.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\bin\Debug\net8.0\QueryHandling.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\bin\Debug\net8.0\QueryHandling.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\bin\Debug\net8.0\QueryHandling.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\bin\Debug\net8.0\QueryHandling.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\QueryHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\QueryHandling.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\QueryHandling.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\QueryHandling.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\QueryHandling.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\QueryHandling.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\refint\QueryHandling.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\QueryHandling.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\QueryHandling.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SolWeek11\QueryHandling\obj\Debug\net8.0\ref\QueryHandling.dll

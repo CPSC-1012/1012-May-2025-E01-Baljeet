@@ -1,0 +1,15 @@
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\bin\Debug\net8.0\EmployeeClassExample.exe
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\bin\Debug\net8.0\EmployeeClassExample.deps.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\bin\Debug\net8.0\EmployeeClassExample.runtimeconfig.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\bin\Debug\net8.0\EmployeeClassExample.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\bin\Debug\net8.0\EmployeeClassExample.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\EmployeeClassExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\EmployeeClassExample.AssemblyInfoInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\EmployeeClassExample.AssemblyInfo.cs
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\EmployeeClassExample.csproj.CoreCompileInputs.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\EmployeeClassExample.sourcelink.json
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\EmployeeClassExample.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\refint\EmployeeClassExample.dll
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\EmployeeClassExample.pdb
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\EmployeeClassExample.genruntimeconfig.cache
+D:\NAIT\Summer2025\CPSC1012\gitCPSC1012_May_2025\SonWeek12\EmployeeClassExample\obj\Debug\net8.0\ref\EmployeeClassExample.dll
