@@ -1,0 +1,15 @@
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\bin\Debug\net8.0\PersonClassPractice.exe
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\bin\Debug\net8.0\PersonClassPractice.deps.json
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\bin\Debug\net8.0\PersonClassPractice.runtimeconfig.json
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\bin\Debug\net8.0\PersonClassPractice.dll
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\bin\Debug\net8.0\PersonClassPractice.pdb
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\PersonClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\PersonClassPractice.AssemblyInfoInputs.cache
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\PersonClassPractice.AssemblyInfo.cs
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\PersonClassPractice.csproj.CoreCompileInputs.cache
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\PersonClassPractice.sourcelink.json
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\PersonClassPractice.dll
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\refint\PersonClassPractice.dll
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\PersonClassPractice.pdb
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\PersonClassPractice.genruntimeconfig.cache
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek12.1\PersonClassPractice\obj\Debug\net8.0\ref\PersonClassPractice.dll
