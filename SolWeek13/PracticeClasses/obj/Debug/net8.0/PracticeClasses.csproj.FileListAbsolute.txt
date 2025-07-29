@@ -1,0 +1,15 @@
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\bin\Debug\net8.0\PracticeClasses.exe
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\bin\Debug\net8.0\PracticeClasses.deps.json
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\bin\Debug\net8.0\PracticeClasses.runtimeconfig.json
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\bin\Debug\net8.0\PracticeClasses.dll
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\bin\Debug\net8.0\PracticeClasses.pdb
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\PracticeClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\PracticeClasses.AssemblyInfoInputs.cache
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\PracticeClasses.AssemblyInfo.cs
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\PracticeClasses.csproj.CoreCompileInputs.cache
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\PracticeClasses.sourcelink.json
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\PracticeClasses.dll
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\refint\PracticeClasses.dll
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\PracticeClasses.pdb
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\PracticeClasses.genruntimeconfig.cache
+D:\NAIT\StudentWorkbookCPSC1012\SolWeek13\PracticeClasses\obj\Debug\net8.0\ref\PracticeClasses.dll
